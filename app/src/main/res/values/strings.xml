@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="matricula">Matricula</string>
+    <string name="nome">Nome:</string>
+    <string name="rodrigo_elias">Rodrigo Elias</string>
+    <string name="matricula_valor">201776039</string>
+</resources>
